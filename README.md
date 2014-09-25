@@ -7,6 +7,7 @@ lenguaje-marcas
 ##### Utilizaciones
 
 - Idiomas
+- Requisitos
 - Licencia
 
 1. Accesibilidad
