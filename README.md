@@ -8,7 +8,6 @@ lenguaje-marcas
 
 - Idiomas
 - Licencia
-- Requisitos
 
 1. Accesibilidad
   - Acceso
