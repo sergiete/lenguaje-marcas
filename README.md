@@ -1,4 +1,3 @@
 lenguaje-marcas
 ===============
-CHULETAS
-MARKDOWN
+# Mark Down.
