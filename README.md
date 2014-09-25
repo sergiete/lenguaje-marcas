@@ -16,4 +16,4 @@ lenguaje-marcas
 2. Perfil de usuario
 3. Encabezados
 
-![Con titulo](pictures/avatar.png "titulo")
+![fondo negro con letras blancas](http://fcruzbello.es/wp-content/uploads/Markdown.png "titulo")
