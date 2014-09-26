@@ -18,4 +18,4 @@ lenguaje-marcas
 
 ![fondo negro con letras blancas](http://fcruzbello.es/wp-content/uploads/Markdown.png "titulo")
 
-![fondo blanco y dentro el escudo](C:recuerdos/manisenseescudoxr1.jpeg "manisense")
+[Informacion Mark Down](http://joedicastro.com/pages/markdown.html#mark9)
