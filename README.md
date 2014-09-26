@@ -17,3 +17,5 @@ lenguaje-marcas
 3. Encabezados
 
 ![fondo negro con letras blancas](http://fcruzbello.es/wp-content/uploads/Markdown.png "titulo")
+
+![fondo blanco y dentro el escudo](C:recuerdos/manisenseescudoxr1.jpeg "manisense")
