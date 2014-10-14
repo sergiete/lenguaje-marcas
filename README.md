@@ -40,3 +40,15 @@ Esta es una norma ISO derivada de una anterior (GML de IBM). SGML permite que la
 
 Un documento SGML se marca de modo que no dice nada respecto a su representación en la pantalla o en papel. Un programa de presentación debe unir el documento con la información de estilo a fin de producir una copia impresa en la pantalla o en el papel. La sintaxis de SGML es suficiente para sus necesidades. El lenguaje muestra que se originó en sistemas donde el texto era el contenido principal y el marcado era la excepción.
 
+
+## Lista de tipos lenguaje de marcado
+
+- GML
+- TEX
+- LATEX
+- SGM
+- HTML
+- XML
+- XHTML
+
+[Información Lenguaje de Marcado](https://www.youtube.com/watch?v=q9Npd-BjRuU)
